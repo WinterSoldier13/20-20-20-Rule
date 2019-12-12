@@ -4,4 +4,6 @@ Using the 20-20-20 rule can help to prevent eye-strain problem. The rule says th
 This repo additionaly needs 'win10toast' for Python.
 You can install it using: pip install win10toast.
 
-Additionaly you can download the .exe file from <here> to run it directly on your Windows PC.
+You can use the Pyinstaller to compile it to an exe file, then place it in C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp along with a icon.ico file.
+
+
