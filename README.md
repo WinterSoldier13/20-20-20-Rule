@@ -10,9 +10,10 @@ You can use the Pyinstaller to compile it to an exe file, then place it in C:\Pr
 
 
 <h1>LINUX</h1>
-  You additionally need to install notify2 and dbus. 
-  pip2 install notify2
-  pip2 install python-dbus
+
+  <br>You additionally need to install notify2 and dbus.</br>
+  <br>pip2 install notify2</br>
+  <br>pip2 install python-dbus</br>
     
 
 
