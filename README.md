@@ -18,6 +18,8 @@ You can use the Pyinstaller to compile it to an exe file, then place it in C:\Pr
   <br>sudo cp -i ~/Desktop/test_code.py /bin</br>
 
   <br>sudo crontab -e</br>
+Add the following line and save it:
+@reboot python /bin/test_code.py &
     
 
 
