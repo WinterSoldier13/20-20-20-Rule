@@ -14,6 +14,10 @@ You can use the Pyinstaller to compile it to an exe file, then place it in C:\Pr
   <br>You additionally need to install notify2 and dbus.</br>
   <br>pip2 install notify2</br>
   <br>pip2 install python-dbus</br>
+  <br>To make this file execute on startup</br>
+  <br>sudo cp -i ~/Desktop/test_code.py /bin</br>
+
+  <br>sudo crontab -e</br>
     
 
 
